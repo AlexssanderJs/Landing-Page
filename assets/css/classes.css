@@ -1,0 +1,20 @@
+.main-bg{
+    background-image: url(/assets/img/main-bg\ \(1\).svg);
+    background-size: cover; /* para ficar do tamanho todo da pragina*/
+    background-position: center center;
+    color: var(--white-color);
+}
+
+.main-content {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: var(--gap);
+}
+
+.white-bg {
+    background: var(--white-color);
+}
+
+.section {
+    min-height: 100vh;
+}
